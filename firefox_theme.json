@@ -1,0 +1,32 @@
+{ 
+   "colors": { 
+      "button_background_active": "#251651",
+      "button_background_hover":"#251651",
+      "icons_attention": "#BD5374",
+      "frame":"#050218",
+      "ntp_background":"#050218",
+      "ntp_text":"#BD5374",
+      "tab_background_text":"#BD5374",
+      "tab_line":"#BD5374",
+      "tab_loading":"#BD5374",
+      "tab_selected":"#251651",
+      "tab_text":"#BD5374",
+      "toolbar":"#050218",
+      "toolbar_field":"#0E061F",
+      "toolbar_field_highlight":"#BD5374",
+      "toolbar_field_highlight_text":"#050218",
+      "toolbar_field_separator":"#0E061F",
+      "toolbar_field_text":"#BD5374",
+      "toolbar_field_text_focus":"#BD5374",
+      "popup":"#050218",
+      "popup_highlight": "#BD5374",	
+      "popup_border":"#050218",
+      "popup_highlight_text": "#251651",
+      "popup_text":"#BD5374",
+      "sidebar":"#050218",
+      "sidebar_border":"#050218",
+      "sidebar_highlight":"#BD5374",
+      "sidebar_highlight_text":"#050218",
+      "sidebar_text":"#BD5374"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "description":"Dynamically set the firefox theme",
+    "version":"0.1",
+    "name": "Dynamic Theme-Use native app to update theme",
+    "permissions":["theme", "nativeMessaging"],
+    "background": {
+	"scripts": ["background.js"]
+    },
+    "browser_specific_settings":{
+	"gecko": {
+	    "id": "dynamicTheme@bassed.ca"
+	}
+    }
+}

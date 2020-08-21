@@ -1,0 +1,7 @@
+{
+    "name": "get_firefox_theme",
+    "description": "Native application that sends theme data to stdo",
+    "path": "/home/jp/.mozilla/extensions/dynamicTheme/get_firefox_theme.py",
+    "type": "stdio",
+    "allowed_extensions": [ "dynamicTheme@bassed.ca" ]
+}
