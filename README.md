@@ -2,7 +2,7 @@
 
  Use a file to dynamically mantain firefox theme
 
-# Tested on firefox linux
+### Tested on firefox linux
 # Dependencies
 
  * Python 3
