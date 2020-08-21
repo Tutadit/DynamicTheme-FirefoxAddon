@@ -1,9 +1,9 @@
 # Dynamic Theme
 
- Use a file to mantain firefox theme
+ Use a file to dynamically mantain firefox theme
 
 # Tested on firefox linux
-# Dependency
+# Dependencies
 
  * Python 3
  * pyinotify
