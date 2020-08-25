@@ -2,7 +2,6 @@
 
  Use a file to dynamically mantain firefox theme
 
-### Tested on firefox linux
 # Dependencies
 
  * Python 3
@@ -22,3 +21,7 @@
 # Usage
 
 When running the extension firefox's theme is updated when `firefox_theme.json` is changed. 
+
+### Tested on firefox 79 running on arch-linux
+
+Should work on other dists, let me know of any issues
