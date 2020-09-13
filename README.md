@@ -25,3 +25,10 @@ When running the extension firefox's theme is updated when `firefox_theme.json` 
 ### Tested on firefox 79 running on arch-linux
 
 Should work on other dists, let me know of any issues
+
+### Example
+
+Take a look at my set up to see how I mantain a color scheme
+based on the current background
+
+https://github.com/Tutadit/Base-Shell-Scripts
